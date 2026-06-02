@@ -3,63 +3,26 @@
 
 MindCare is a secure and intelligent Android application designed to empower users in managing their mental well-being. By combining advanced AI, mood tracking, and interactive support, MindCare provides a safe space for emotional growth and reflection.
 
-## Project Structure
-```text
-MindCare/
-├── app/                  # Complete Android project source code
-├── screenshots/          # App screenshots for documentation
-│   ├── About.png
-│   ├── AI.png
-│   ├── Contact.png
-│   ├── Dashboard.png
-│   ├── Feature.png
-│   ├── Features.png
-│   ├── FrontPage.png
-│   ├── History.png
-│   ├── Home.png
-│   ├── HomePage.png
-│   ├── Login.png
-│   ├── Mood.png
-│   ├── Privacy.png
-│   ├── Profile_Update.png
-│   ├── Profile.png
-│   ├── Register.png
-│   ├── Setting.png
-│   ├── SOS.png
-│   ├── User_Function.png
-│   └── Wellness.png
-├── apk/                  # Pre-compiled application package
-│   └── MindCare.apk
-├── docs/                 # Project documentation and policies
-│   ├── privacy_policy.pdf
-│   └── user_manual.pdf
-├── README.md             # Project overview and guide
-├── LICENSE               # Project license information
-├── .gitignore            # Git ignore rules
-├── build.gradle          # Top-level build configuration
-└── settings.gradle       # Project settings and repositories
-```
-
 ## About the App
-MindCare helps individuals understand, monitor, and improve their emotional well-being. It leverages cutting-edge AI technologies to analyze mood patterns and provide personalized wellness insights. Whether you need an AI companion to talk to or tools to track your progress, MindCare is here to support your mental health journey.
+MindCare is an innovative AI-driven platform dedicated to supporting mental health through personalized emotional tracking and intelligent companion support. It empowers users to understand their emotional patterns and access wellness resources for a balanced and healthier lifestyle.
 
 ## App Screenshots
 
-| About | AI | Contact | Dashboard | Feature |
-|:---:|:---:|:---:|:---:|:---:|
-| ![About](screenshots/About.png) | ![AI](screenshots/AI.png) | ![Contact](screenshots/Contact.png) | ![Dashboard](screenshots/Dashboard.png) | ![Feature](screenshots/Feature.png) |
+| About | AI | Contact | Feature |
+|:---:|:---:|:---:|:---:|
+| ![About](screenshots/About.png) | ![AI](screenshots/AI.png) | ![Contact](screenshots/Contact.png) | ![Feature](screenshots/Feature.png) |
 
 | Features | FrontPage | History | Home | HomePage |
 |:---:|:---:|:---:|:---:|:---:|
 | ![Features](screenshots/Features.png) | ![FrontPage](screenshots/FrontPage.png) | ![History](screenshots/History.png) | ![Home](screenshots/Home.png) | ![HomePage](screenshots/HomePage.png) |
 
-| Login | Mood | Privacy | Profile Update | Profile |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Login](screenshots/Login.png) | ![Mood](screenshots/Mood.png) | ![Privacy](screenshots/Privacy.png) | ![Profile Update](screenshots/Profile_Update.png) | ![Profile](screenshots/Profile.png) |
+| Login | Mood | Privacy | Profile |
+|:---:|:---:|:---:|:---:|
+| ![Login](screenshots/Login.png) | ![Mood](screenshots/Mood.png) | ![Privacy](screenshots/Privacy.png) | ![Profile](screenshots/Profile.png) |
 
-| Register | Setting | SOS | User Function | Wellness |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Register](screenshots/Register.png) | ![Setting](screenshots/Setting.png) | ![SOS](screenshots/SOS.png) | ![User Function](screenshots/User_Function.png) | ![Wellness](screenshots/Wellness.png) |
+| Register | Setting | Wellness |
+|:---:|:---:|:---:|
+| ![Register](screenshots/Register.png) | ![Setting](screenshots/Setting.png) | ![Wellness](screenshots/Wellness.png) |
 
 ## Documentation
 For more detailed information, please refer to our project documentation:
