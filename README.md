@@ -47,7 +47,7 @@ For more detailed information, please refer to our project documentation:
 - **Gradle:** Build automation and dependency management.
 
 ## Project Downloads
-- 📦 [Download MindCare Project (.rar)](https://drive.google.com/file/d/1-JtPfmGsQMIeyUSjNk7vTEutV7Q5RKat/view?usp=drive_link)
+- 📦 [Download MindCare Project (.rar)](https://drive.google.com/file/d/1-JtPfmGsQMIeyUSjNk7vTEutV7Q5RKat/view?usp=drivesdk)
 - 📱 [Download MindCare APK](apk/MindCare.apk)
 
 ## How to Install the APK
